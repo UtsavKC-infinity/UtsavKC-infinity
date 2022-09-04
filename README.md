@@ -1,6 +1,6 @@
 - 👋 Hi, I’m UtsavKC
 - 👀 I’m interested in Web App Backend Development
-- 🌱 I’m currently learning COSMOS College Of Management And Technology
+- 🌱 I’m currently learning in COSMOS College Of Management And Technology
 - 💞️ I’m looking to collaborate on IT reaserach and solution based Company
 
 <!---
